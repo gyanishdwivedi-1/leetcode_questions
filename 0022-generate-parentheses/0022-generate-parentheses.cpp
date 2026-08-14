@@ -15,7 +15,7 @@ public:
         if(mp['(']>mp[')']){
         paren(i+1,s,')',n,mp);
         }
-       // mp[c]--;
+       mp[c]--;
         s.pop_back();
         
 
