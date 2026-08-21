@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1669-merge-in-between-linked-lists](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1669-merge-in-between-linked-lists) |
 ## Depth-First Search
 |  |
 | ------- |
