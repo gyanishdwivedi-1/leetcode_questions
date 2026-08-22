@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
