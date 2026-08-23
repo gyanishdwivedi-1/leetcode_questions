@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0049-group-anagrams) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2390-removing-stars-from-a-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [2390-removing-stars-from-a-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
