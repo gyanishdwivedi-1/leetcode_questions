@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1669-merge-in-between-linked-lists) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -89,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
