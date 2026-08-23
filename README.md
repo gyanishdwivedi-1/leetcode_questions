@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0049-group-anagrams) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
