@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1103-distribute-candies-to-people) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2235-add-two-integers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
