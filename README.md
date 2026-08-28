@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0409-longest-palindrome) |
+| [1143-longest-common-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2390-removing-stars-from-a-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0279-perfect-squares](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0279-perfect-squares) |
+| [1143-longest-common-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0279-perfect-squares) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
