@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0896-monotonic-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0409-longest-palindrome) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Breadth-First Search
 |  |
 | ------- |
