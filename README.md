@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0575-distribute-candies) |
 | [1512-number-of-good-pairs](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1512-number-of-good-pairs) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -82,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0049-group-anagrams) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1103-distribute-candies-to-people) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0409-longest-palindrome) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -210,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
