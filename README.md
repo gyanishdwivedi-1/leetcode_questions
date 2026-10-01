@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0409-longest-palindrome) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0022-generate-parentheses) |
 ## Sorting
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0682-baseball-game) |
