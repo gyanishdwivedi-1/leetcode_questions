@@ -222,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
