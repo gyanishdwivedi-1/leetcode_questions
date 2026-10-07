@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0575-distribute-candies) |
+| [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0896-monotonic-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0049-group-anagrams) |
+| [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
 ## Counting
 |  |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0409-longest-palindrome) |
+| [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Breadth-First Search
