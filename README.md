@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0575-distribute-candies) |
+| [0791-custom-sort-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0791-custom-sort-string) |
 | [1512-number-of-good-pairs](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0791-custom-sort-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0791-custom-sort-string) |
 | [1143-longest-common-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2390-removing-stars-from-a-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0049-group-anagrams) |
 | [0506-relative-ranks](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
+| [0791-custom-sort-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0791-custom-sort-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
