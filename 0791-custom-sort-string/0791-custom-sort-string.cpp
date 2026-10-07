@@ -22,7 +22,6 @@ public:
             st+=s[i];
         }
       }
-    //   sort(st.begin(),st.end());
      ans+=st;
         return ans;
     }
