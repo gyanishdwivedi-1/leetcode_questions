@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
+| [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0896-monotonic-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
@@ -244,4 +247,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0183-customers-who-never-order) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
