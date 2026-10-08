@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -255,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Cartesian Tree
 |  |
 | ------- |
