@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0584-find-customer-referee) |
+| [1068-product-sales-analysis-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1068-product-sales-analysis-i) |
 | [1393-capital-gainloss](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1393-capital-gainloss) |
 ## Divide and Conquer
 |  |
