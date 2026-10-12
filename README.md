@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
 | [1103-distribute-candies-to-people](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1103-distribute-candies-to-people) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -268,11 +269,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Cartesian Tree
 |  |
