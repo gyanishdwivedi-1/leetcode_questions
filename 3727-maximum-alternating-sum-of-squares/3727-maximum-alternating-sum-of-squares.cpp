@@ -8,7 +8,7 @@ public:
         sort(nums.begin(),nums.end());
         long long sum1=0;
         long long sum2=0;
-        if(n%2==0){
+       
             int x=n/2;
            for(int i=0;i<x;i++){
             sum1+=nums[i];
@@ -16,16 +16,8 @@ public:
             for(int i=x;i<n;i++){
                 sum2+=nums[i];
             }
-        }
-        else{
-            int x=n/2;
-            for(int i=0;i<x;i++){
-            sum1+=nums[i];
-           }
-            for(int i=x;i<n;i++){
-                sum2+=nums[i];
-            }
-        }
+       
+        
         return sum2-sum1;
     }
 };
