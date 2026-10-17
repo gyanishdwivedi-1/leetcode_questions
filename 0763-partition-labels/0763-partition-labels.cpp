@@ -7,13 +7,12 @@ public:
             mp[s[i]]=i;
         }
         int maxi=mp[s[0]];
-        int maxlen=0;
+  
         vector<int>ans;
         int l=0;
         int r=0;
       
-        unordered_map<char,bool>m;
-        m[s[0]]=true;
+       
         while(r<n){
             if(mp[s[r]]>maxi){
                 maxi=mp[s[r]];
@@ -22,7 +21,7 @@ public:
                 ans.push_back(r-l+1);
                 l=r+1;
             }
-            m[s[r]]=true;
+        
             r++;
         }
         return ans;
