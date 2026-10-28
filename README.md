@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0538-convert-bst-to-greater-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Doubly-Linked List
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
@@ -337,5 +340,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
