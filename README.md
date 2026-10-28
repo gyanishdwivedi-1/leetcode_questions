@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -303,12 +304,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0654-maximum-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Cartesian Tree
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1219-path-with-maximum-gold](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1219-path-with-maximum-gold) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
