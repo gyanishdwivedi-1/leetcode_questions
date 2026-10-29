@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1219-path-with-maximum-gold](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0575-distribute-candies) |
 | [0763-partition-labels](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0791-custom-sort-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0791-custom-sort-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0905-sort-array-by-parity) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -349,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1387-sort-integers-by-the-power-value) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
