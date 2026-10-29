@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1143-longest-common-subsequence) |
+| [1387-sort-integers-by-the-power-value](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1387-sort-integers-by-the-power-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0791-custom-sort-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0905-sort-array-by-parity) |
+| [1387-sort-integers-by-the-power-value](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Memoization
+|  |
+| ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1387-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
