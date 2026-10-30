@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0905-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0969-pancake-sorting) |
 | [1019-next-greater-node-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1219-path-with-maximum-gold](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0791-custom-sort-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0905-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0969-pancake-sorting) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0905-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0969-pancake-sorting) |
 ## Counting
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0763-partition-labels) |
+| [0969-pancake-sorting](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0969-pancake-sorting) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
