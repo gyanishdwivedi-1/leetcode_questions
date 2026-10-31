@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0969-pancake-sorting) |
 | [1019-next-greater-node-in-linked-list](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1051-height-checker) |
 | [1219-path-with-maximum-gold](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0969-pancake-sorting) |
+| [1051-height-checker](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -359,5 +361,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
