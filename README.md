@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1387-sort-integers-by-the-power-value) |
+| [3665-twisted-mirror-path-count](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1219-path-with-maximum-gold](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1219-path-with-maximum-gold) |
+| [3665-twisted-mirror-path-count](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Search Tree
 |  |
 | ------- |
