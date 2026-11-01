@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1393-capital-gainloss) |
 | [1587-bank-account-summary-ii](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1890-the-latest-login-in-2020) |
