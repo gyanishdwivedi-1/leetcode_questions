@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0969-pancake-sorting) |
 | [1051-height-checker](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0969-pancake-sorting) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
