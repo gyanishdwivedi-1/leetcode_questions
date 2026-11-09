@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2367-number-of-arithmetic-triplets](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1512-number-of-good-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2367-number-of-arithmetic-triplets](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0969-pancake-sorting) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Counting
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
