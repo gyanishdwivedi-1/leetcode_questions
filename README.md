@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-partition-labels](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0763-partition-labels) |
+| [0784-letter-case-permutation](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0791-custom-sort-string) |
 | [1143-longest-common-subsequence](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0494-target-sum) |
+| [0784-letter-case-permutation](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0784-letter-case-permutation) |
 | [1219-path-with-maximum-gold](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/1219-path-with-maximum-gold) |
 ## Bracket Sequences
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0491-non-decreasing-subsequences) |
+| [0784-letter-case-permutation](https://github.com/gyanishdwivedi-1/leetcode_questions/tree/master/0784-letter-case-permutation) |
 ## Recursion
 |  |
 | ------- |
